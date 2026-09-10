@@ -1,0 +1,26 @@
+LOGIT LENS RESULTS
+================================================================================
+
+--- LAYER 4 ---
+PROMOTED:   ['莺', ' leggings', 'erras', 'aceous', ' gunman', '澎湃新闻', '着', 'emics', ' pó', 'ba', ' maç', '香', 'ounge', ' unlocks', '勠']
+SUPPRESSED: ["'url", 'esteem', 'GLOSS', 'imbus', "'email", '<fieldset', "'icon", '_firestore', '})();\n\n', "'user", '年之久', '::$_', '委副书记', '}\'",', 'ampire']
+
+--- LAYER 8 ---
+PROMOTED:   [' dévelop', '気に', 'ableView', 'ien', ' bénéfic', 'cs', 'z', ' rencontrer', ' newSize', 'PyObject', '/disc', ' Saudis', 'uintptr', '散户', 'uded']
+SUPPRESSED: ['-Version', '[".', '.za', ':;\n', '=\\"/', '},{\n', "'icon", 'ampire', '={!', '_firestore', 'ombine', ':animated', 'esteem', 'loquent', "','');\n"]
+
+--- LAYER 12 ---
+PROMOTED:   ['ien', '@class', 'ember', 'gt', '每日经济', ' tumblr', ' créer', '∣', ' playerId', '加快建设', ' maç', '/remove', 'LK', 'uintptr', 'Getty']
+SUPPRESSED: ["'icon", '")));', ':animated', '-With', '},{\n', '利用您的', ' הוד', '所提供之', '_firestore', ':async', '年之久', '-Version', '大大小', '[".', 'ogui']
+
+--- LAYER 16 ---
+PROMOTED:   ['apiro', 'atoire', '国际在线', ' maç', '_CUDA', ' már', '每日经济', ' tumblr', '从严', ' kayak', ' //\r\n\r\n', '|--------------------------------------------------------------------------\n', '其它问题', 'ICTURE', '@class']
+SUPPRESSED: [':animated', '利用您的', '[".', '.za', '::$_', '-With', '-Cs', "'icon", '")));', '=\\"/', ' הוד', ':;\n', ':convert', '.Cookie', '所提供之']
+
+--- LAYER 20 ---
+PROMOTED:   ['每日经济', '任何', '不得', '暌', '并不是很', '重要举措', ' prostitu', ' maç', ' ipAddress', ' kayak', ' ActionTypes', ' whatsapp', ' deviceId', ' below', 'loadModel']
+SUPPRESSED: ['大大小', '[".', '},{\n', '所提供之', '利用您的', '-Cs', '庋', ' blat', '建档立', '日报社', '}elseif', ':async', '对其真实', ' הוד', ',},\n']
+
+--- LAYER 24 ---
+PROMOTED:   [' answer', ' if', ' ipAddress', '重要举措', '游戏技巧', '回答', ' only', ' below', ' ActionTypes', '有的玩家', ' MediaTek', '传奇游戏', '独一', ' reply', 'ScreenState']
+SUPPRESSED: ['大大小', '性价', '直辖', '日报社', '民主生活', '年之久', ' blat', '-NLS', '叆', ',},\n', '},{\n', '所提供之', '一致好评', '换句话', '!=(']
