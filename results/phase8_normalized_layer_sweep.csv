@@ -1,0 +1,7 @@
+layer,cosine_consistency,task_accuracy_fixed_-50,attack_leakage_fixed_-50,attack_compliance_fixed_-50,norm,scaled_strength,task_accuracy_normalized,attack_leakage_normalized,attack_compliance_normalized
+4,0.44921875,90,0,0,17.93,-18.99,85,10,5
+8,0.498046875,90,0,0,29.27,-31.01,85,5,0
+12,0.55078125,90,0,0,35.35,-37.45,90,0,0
+16,0.578125,75,20,10,47.2,-50.0,75,20,10
+20,0.5390625,60,35,35,68.81,-72.89,60,35,35
+24,0.46484375,55,45,45,177.75,-188.29,60,40,45
